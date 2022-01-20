@@ -1,0 +1,12 @@
+name = input(f"Please Enter Your name: ")
+print(type(name))
+age = int(input(f"please Enter your age: "))
+print(type(age))
+address = input(f"Please Enter your address: ")
+print(type(address))
+Education = input(f"please Enter your education: ")
+print(type(Education))
+Marks=float(input(f"Please Enter Your Marks: "))
+print(type(Marks))
+l1 = [name,age,address,Education,Marks]
+print(l1)
